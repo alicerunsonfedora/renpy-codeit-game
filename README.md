@@ -2,6 +2,8 @@
 
 A "fill in the blank" Python coding game
 
+![Screenshot](screenshot.png)
+
 This is a small project that implements a small mini game where players have to click on the Python statements on the right to fill in the Python script on the left. Most of the code relies on some parts to Unscripted, but can be slightly modified as necessary.
 
 ## Requirements
